@@ -1,0 +1,4 @@
+14:35:18.184 DEBUG core.testCore -Config property file loaded
+14:35:18.187 DEBUG core.testCore -Object property file loaded
+14:35:18.626 DEBUG core.testCore -Excel file loaded
+14:35:40.788 DEBUG core.testCore -Firefox driver initialized
